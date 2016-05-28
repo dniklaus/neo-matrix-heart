@@ -1,0 +1,3 @@
+[submodule "lib/metro"]
+	path = lib/metro
+	url = https://github.com/thomasfredericks/Metro-Arduino-Wiring.git
